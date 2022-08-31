@@ -1,3 +1,4 @@
+## Bootstrap 5.2 offline setup
 1. Download [bootstrap-5.2](https://getbootstrap.com/docs/5.2/getting-started/download/) zip file then extract it to the root of the project.
 2. download [popper](https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js) [open text editor copy popper.min.js and paste it]
 2. create an index.html file in the root of the project.
